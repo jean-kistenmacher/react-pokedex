@@ -29,6 +29,11 @@
     "react-hooks/exhaustive-deps": "warn",
     "no-use-before-define": "off",
     "prettier/prettier": "error",
+    "linebreak-style": [
+      0,
+      "error",
+      "windows"
+    ],
     "react/jsx-filename-extension": [
       1,
       {
